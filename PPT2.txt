@@ -1,0 +1,36 @@
+Andersson, SG, Zomorodipour, A, Andersson, JO, Sicheritz-Pontén, T, Alsmark, UC, Podowski, RM, Näslund, AK, Eriksson, AS, Winkler, HH, Kurland, CG (1998). "The genome sequence of Rickettsia prowazekii and the origin of mitochondria". Nature. 396 (6707): 133–140. Bibcode:1998Natur.396..133A. 
+doi:10.1038/24094.
+
+Clark M A , Moran N A , Wernegreen B J J . Cospeciation between Bacterial Endosymbionts (Buchnera) and a Recent Radiation of Aphids (Uroleucon) and Pitfalls of Testing for Phylogenetic Congruence[J]. Evolution, 2000, 54(2):517-525.
+doi: 10.2307/2640858
+
+Dagan, T, Roettger, M, Stucken, K, Landan, G, Koch, R, Major, P, Gould, SB, Goremykin, VV, Rippka, R, Tandeau de Marsac, N, Gugger, M, Lockhart, PJ, Allen, JF, Brune, I, Maus, I, Pühler, A, Martin, WF (2013). "Genomes of Stigonematalean cyanobacteria (subsection V) and the evolution of oxygenic photosynthesis from prokaryotes to plastids". Genome Biol Evol. 5 (1): 31–44. 
+doi:10.1093/gbe/evs117.
+
+Gray M W . Mosaic nature of the mitochondrial proteome: Implications for the origin and evolution of mitochondria[J]. Proceedings of the National Academy of Sciences, 2015, 112(33). 
+doi: 10.1073/pnas.1421379112.
+
+Jousselin E , Desdevises Y , Coeur D"Acier A . Fine-scale cospeciation between Brachycaudus and Buchnera aphidicola: bacterial genome helps define species and evolutionary relationships in aphids[J]. Proceedings of the Royal Society B: Biological Sciences, 2009, 276(1654):187-196.
+doi: 10.1098/rspb.2008.0679
+
+Manuell, Andrea L.; Quispe, Joel; Mayfield, Stephen P. (August 2007). "Structure of the Chloroplast Ribosome: Novel Domains for Translation Regulation". PLOS Biology. 5 (8): e209. 
+doi:10.1371/journal.pbio.0050209.
+
+Moran, N. A . Accelerated evolution and Muller's rachet in endosymbiotic bacteria.[J]. Proceedings of the National Academy of Sciences, 1996, 93(7):2873-2878.
+doi: 10.1073/pnas.93.7.2873
+
+Parniske, Martin. Arbuscular mycorrhiza: the mother of plant root endosymbioses[J]. Nature Reviews Microbiology, 2008, 6(10):763-775.
+doi: 10.1038/nrmicro1987
+
+Schwartz, James; Meyer, Ralph; Eisenstadt, Jerome; Brawerman, George (1967). "Involvement of N-formylmethionine in initiation of protein synthesis in cell-free extracts of Euglena gracilis". J Mol Biol. 25 (3): 571–IN27. 
+doi:10.1016/0022-2836(67)90210-0.
+
+Smith, A. E.; Marcker, K. A. (1968). "N-formylmethionyl transfer RNA in mitochondria from yeast and rat liver". J Mol Biol. 38 (2): 241–243. 
+doi:10.1016/0022-2836(68)90409-9.
+
+Timmis, Jeremy; Ayliffe, Michael; Huang, Chun; Martin, William (February 2004). "Endosymbiotic Gene Transfer: Organelle Genomes Forge Eukaryotic Chromosomes". Nature Reviews Genetics. 5 (2): 123–135. 
+doi:10.1038/nrg1271.
+
+Wise, Robert R; Hoober, J. Kenneth (2007). Structure and function of plastids. Berlin: Springer. p. 104. 
+ISBN 9781402065705.
+
